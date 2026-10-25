@@ -3,7 +3,7 @@
 A web-based system that allows patients to book, view, cancel, and reschedule clinic appointments while helping clinic receptionists manage appointment schedules and prevent booking conflicts.
 
 ## Problem statement
-[Patients who arrange clinic appointments may experience difficulties checking available time slots, managing existing bookings, and keeping track of appointment details. Clinic receptionists may also face challenges organizing daily schedules, updating appointment records, and preventing duplicate bookings. Azhari and Abd Warif (2023) identified manual appointment recording and duplicated records as challenges in clinic appointment management. Therefore, a web-based Clinic Appointment System is proposed to simplify appointment booking, organize appointment information, and reduce scheduling conflicts.]
+Patients who arrange clinic appointments may experience difficulties checking available time slots, managing existing bookings, and keeping track of appointment details. Clinic receptionists may also face challenges organizing daily schedules, updating appointment records, and preventing duplicate bookings. Azhari and Abd Warif (2023) identified manual appointment recording and duplicated records as challenges in clinic appointment management. Therefore, a web-based Clinic Appointment System is proposed to simplify appointment booking, organize appointment information, and reduce scheduling conflicts.
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
