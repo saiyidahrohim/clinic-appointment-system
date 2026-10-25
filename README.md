@@ -1,4 +1,4 @@
-# [Clinic Appointment System]
+# Clinic Appointment System
 
 [A web-based system that allows patients to book, view, cancel, and reschedule clinic appointments while helping clinic receptionists manage appointment schedules and prevent booking conflicts.]
 
